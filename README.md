@@ -8,7 +8,7 @@
 Для включения модуля необходимо перейти 
 Control Panel > Programs > Turn Windows Features On or Off > Remote Server Administration Tools > Role Administration Tools > AD DS and AD LDS Tools > Active Directory module for Windows PowerShell
 
-![Image alt](https://github.com/alzaicko/create_user_for_dc.git/raw/master/image/image.png)
+![Image alt](https://github.com/alzaicko/create_user_for_dc/raw/master/image/image.png)
 
 Так же необходимо обладать учётной записью доменного администратора!!!
 
